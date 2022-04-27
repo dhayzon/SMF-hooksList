@@ -1,13 +1,32 @@
 # Todos los hooks que estan presentes en SMF2.1.x 
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     1. With some
-     1. Sub bullets
-</details>
+Display
+ ```php
+      call_integration_hook('integrate_display_buttons', array(&$context['normal_buttons']));
+ ```													
+Display
+ ```php
+      call_integration_hook('integrate_mod_buttons', array(&$context['mod_buttons']));
+ ```													
+Display
+ ```php
+      call_integration_hook('integrate_prepare_display_context', array(&$output, &$message, $counter));
+ ```													
+Display
+ ```php
+	  call_integration_hook('integrate_query_message', array(&$msg_selects, &$msg_tables, &$msg_parameters));
+ ```												
+Display
+ ```php
+      call_integration_hook('integrate_display_message_list', array(&$messages, &$posters));
+ ```													
+Display
+ ```php
+	  call_integration_hook('integrate_poll_buttons');
+ ```												
+Display
+ ```php
+      call_integration_hook('integrate_display_topic', array(&$topic_selects, &$topic_tables, &$topic_parameters));
+ ```	
 
 # Lista de archivos donde estan presentes los hooks
 <details>
