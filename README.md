@@ -1,8 +1,8 @@
 # SMF-hooksList
 Todo los hooks disponibles  en smf 2.1.x
 <details>
-<summary>/source/</summary>
-```
+<summary>Summary text.</summary>
+<code style="white-space:nowrap;"> 
 /source/
         Admin.php
         Attachments.php
@@ -91,5 +91,6 @@ Todo los hooks disponibles  en smf 2.1.x
         Xml.php 
         tasks\Likes-Notify.php
 ```
+</code>
 </details>
  
