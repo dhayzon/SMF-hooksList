@@ -2,9 +2,7 @@
 <details>
   <summary>/source/</summary>
     
-   1. source
-      * With some
-      * Sub bullets
+   1. source 
       * Admin.php
       * Attachments.php
       * BoardIndex.php
