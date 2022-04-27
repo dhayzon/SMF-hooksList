@@ -1,9 +1,7 @@
 # SMF-hooksList
 Todo los hooks disponibles  en smf 2.1.x
 <details>
-<summary>Summary text.</summary>
-<code style="white-space:nowrap;">Hello World, how is it going?</code>
-</details>
+<summary>/source/</summary>
 ```
 /source/
         Admin.php
@@ -93,3 +91,5 @@ Todo los hooks disponibles  en smf 2.1.x
         Xml.php 
         tasks\Likes-Notify.php
 ```
+</details>
+ 
