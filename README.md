@@ -2,7 +2,7 @@
 Todo los hooks disponibles  en smf 2.1.x
 <details>
 <summary>Summary text.</summary>
-<code style="white-space:nowrap;"> 
+<code> 
 /source/
         Admin.php
         Attachments.php
