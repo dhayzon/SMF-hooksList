@@ -1,7 +1,7 @@
 # Todos los hooks que estan presentes en SMF2.1.x 
 
 Todo los hooks a qui https://github.com/dhayzon/SMF-hooksList/wiki
-
+```
 Admin.php-- 'integrate_admin_search'
 Admin.php-- 'integrate_manage_logs'
 Attachments.php-- 'integrate_attachment_upload'
@@ -389,7 +389,7 @@ Who.php  'who_allowed'
 Who.php-- 'integrate_whos_online'
 Xml.php-- 'integrate_XMLhttpMain_subActions'
 Likes-Notify.php-- 'integrate_find_like_author'
-
+```
 # Lista de archivos donde estan presentes los hooks
 <details>
   <summary>/source/</summary>
