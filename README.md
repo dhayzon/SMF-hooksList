@@ -1,4 +1,8 @@
 # Todos los hooks que estan presentes en SMF2.1.x 
+
+Todo los hooks a qui https://github.com/dhayzon/SMF-hooksList/wiki
+
+
 Display
  ```php
       call_integration_hook('integrate_display_buttons', array(&$context['normal_buttons']));
