@@ -90,7 +90,7 @@ Todo los hooks disponibles  en smf 2.1.x
         Who.php
         Xml.php 
         tasks\Likes-Notify.php
-```
+ 
 </code>
 </details>
  
